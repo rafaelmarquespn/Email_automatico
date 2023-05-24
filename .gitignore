@@ -1,5 +1,5 @@
 .venv\
 
-.tests\
+.tests\*
 poetry.lock
 pyproject.toml
